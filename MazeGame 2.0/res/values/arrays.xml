@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="bg_colors">
+		<item>White</item>
+		<item>Grey</item>
+		<item>Peach</item>
+	</string-array>
+	<string-array name="bg_color_codes">
+		<item>#FFFFFF</item>
+		<item>#DDDDDD</item>
+		<item>#FFE5B4</item>
+	</string-array>
+	<string-array name="wall_colors">
+		<item>Black</item>
+		<item>Dark Blue</item>
+		<item>Maroon</item>
+	</string-array>
+	<string-array name="wall_color_codes">
+		<item>#000000</item>
+		<item>#000088</item>
+		<item>#800000</item>
+	</string-array>
+	<string-array name="ball_colors">
+		<item>Black</item>
+		<item>Blue</item>
+		<item>Red</item>
+	</string-array>
+	<string-array name="ball_color_codes">
+		<item>#000000</item>
+		<item>#0000FF</item>
+		<item>#FF0000</item>
+	</string-array>
+</resources>

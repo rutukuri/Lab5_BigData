@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MazeMan 2</string>
+    <string name="splashChk">Don\'t show this again</string>
+    <string name="newgame">New Game</string>
+    <string name="about">About</string>
+    <string name="prefs">Settings</string>
+    <string name="aboutText">Created By: Ankit Garg</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="levelSelect">Select Maze</string>
+    <string name="finished_title">Congrats</string>
+    <string name="finished_text">Level Cleared</string>
+    <string name="finished_button">End Game</string>
+    <string name="prefs_splash">Skip Splash Screen</string>
+    <string name="prefs_splash_summary">Don\'t show Spash Screen at startup</string>
+    <string name="prefs_game">Game Look</string>
+    <string name="prefs_ball_color">Ball Color</string>
+    <string name="prefs_ball_color_title">Select a Ball Color</string>
+    <string name="prefs_wall_color">Line Color</string>
+    <string name="prefs_wall_color_title">Select a Line Color</string>
+    <string name="prefs_back_color">Background Color</string>
+    <string name="prefs_back_color_title">Select a Background Color</string>
+</resources>

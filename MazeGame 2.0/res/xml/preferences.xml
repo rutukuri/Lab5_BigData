@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+	  <CheckBoxPreference 
+	  		android:key="skipSplash"
+	  		android:title="@string/prefs_splash"
+	  		android:summary="@string/prefs_splash_summary" />
+	  		
+	  <PreferenceCategory android:title="@string/prefs_game">
+	  		<ListPreference
+				android:key="bgColor"
+				android:title="@string/prefs_back_color"
+				android:entries="@array/bg_colors"
+				android:entryValues="@array/bg_color_codes"
+				android:dialogTitle="@string/prefs_back_color_title" />
+	  		<ListPreference
+				android:key="wallColor"
+				android:title="@string/prefs_wall_color"
+				android:entries="@array/wall_colors"
+				android:entryValues="@array/wall_color_codes"
+				android:dialogTitle="@string/prefs_wall_color_title" />
+	  		<ListPreference
+				android:key="ballColor"
+				android:title="@string/prefs_ball_color"
+				android:entries="@array/ball_colors"
+				android:entryValues="@array/ball_color_codes"
+				android:dialogTitle="@string/prefs_ball_color_title" />
+	  </PreferenceCategory>
+</PreferenceScreen>

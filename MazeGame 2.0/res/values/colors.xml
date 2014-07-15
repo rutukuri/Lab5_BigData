@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="splash_bg">#FFFFFF</color>
+	<color name="splash_txt">#000000</color>
+	<color name="game_bg">#DDDDDD</color>
+	<color name="line">#000000</color>
+	<color name="position">#FF0000</color>
+</resources>
